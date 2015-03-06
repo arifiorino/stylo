@@ -81,11 +81,11 @@
 		0203C1DB1A3F92870022CAB4 /* stylo */ = {
 			isa = PBXGroup;
 			children = (
+				0203C1E61A3F92870022CAB4 /* Main.storyboard */,
 				0203C1E01A3F92870022CAB4 /* AppDelegate.h */,
 				0203C1E11A3F92870022CAB4 /* AppDelegate.m */,
 				0203C1E31A3F92870022CAB4 /* ViewController.h */,
 				0203C1E41A3F92870022CAB4 /* ViewController.m */,
-				0203C1E61A3F92870022CAB4 /* Main.storyboard */,
 				0203C1E91A3F92870022CAB4 /* Images.xcassets */,
 				0203C1EB1A3F92870022CAB4 /* LaunchScreen.xib */,
 				0203C1DC1A3F92870022CAB4 /* Supporting Files */,
@@ -414,6 +414,7 @@
 				0203C1FE1A3F92880022CAB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0203C1FF1A3F92880022CAB4 /* Build configuration list for PBXNativeTarget "styloTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +423,7 @@
 				0203C2011A3F92880022CAB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
